@@ -8,6 +8,8 @@
 #' groups.
 #'
 #' @param n1 a single integer value. The sample size of group 1.
+#' @param n2 a single integer value. 
+#' @param 
 #' TODO document all arguments
 #'
 #' @details
