@@ -8,6 +8,12 @@
 #' groups.
 #'
 #' @param n1 a single integer value. The sample size of group 1.
+#' @param n2 a single integer value. 
+#' @param mean1 the mean for the first integer value.
+#' @param mean2 the mean for the second integer value. 
+#' @param sd1 standard deviation for integer 1.
+#' @param sd2 standard deviation for integer 2.
+#' @param seed integer to reproduce results.
 #' TODO document all arguments
 #'
 #' @details
